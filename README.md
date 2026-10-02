@@ -1,8 +1,8 @@
 # Corporate Network Infrastructure Security
 Corporate Network Infrastructure & Security
-A secure enterprise network infrastructure designed and implemented using Cisco Packet Tracer
+A secure enterprise network infrastructure designed and implemented using Cisco Packet Tracer.
 Project Overview
-This project demonstrates the design, configuration, and security of a corporate network using VLAN segmentation, trunking, access control, and network security controls
+This project demonstrates the design, configuration, and security of a corporate network using VLAN segmentation, trunking, access control, and network security controls.
 Network & Security Features
 VLAN Segmentation
 802.1Q Trunking
@@ -26,10 +26,6 @@ Security-config.png — Port Security, DHCP Snooping, and STP configuration
 ACL-SSH.png — ACL and SSH configuration
 test.png — Connectivity/security testing evidence
 Testing
-Connectivity was tested between different VLANs to verify the configured network security policies and access restrictions
-Tools
-Cisco Packet Tracer
-Cisco IOS CLI
+Connectivity was tested between different VLANs to verify the configured network security policies and access restrictions.
 Skills Demonstrated
 Network Infrastructure • Network Security • VLANs • ACLs • SSH • Port Security • DHCP Snooping • STP • Troubleshooting
-
