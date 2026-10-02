@@ -19,14 +19,10 @@ ___
 * Connectivity & Security Testing
  ___
 ## VLANs Configuration
-* **VLAN 10 — USERS**
-*Network: '192.168.10.0/24'
-* **VLAN 20 — IT**
-* Network: '192.168.20.0/24'
-* **VLAN 30 — SOC**
-* Network: '192.168.30.0/24'
-* **VLAN 40 — SERVERS**
-* Network: '192.168.40.0/24'
+* **VLAN 10 — USERS** Network: '192.168.10.0/24'
+* **VLAN 20 — IT** Network: '192.168.20.0/24'
+* **VLAN 30 — SOC** Network: '192.168.30.0/24'
+* **VLAN 40 — SERVERS** Network: '192.168.40.0/24'
   ___
 
 ## Testing & Verification
