@@ -1,4 +1,3 @@
-# Corporate Network Infrastructure Security
 Corporate Network Infrastructure & Security
 A secure enterprise network infrastructure designed and implemented using Cisco Packet Tracer.
 Project Overview
